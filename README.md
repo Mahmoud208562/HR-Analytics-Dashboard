@@ -84,4 +84,4 @@ Microsoft Excel — PivotTables, PivotCharts, Slicers, KPI cards, Treemap, Radar
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](#) or check out my other projects.
+Feel free to connect with me on https://www.linkedin.com/in/mahmoud-tharwat-elsayed2004/ or check out my other projects.
